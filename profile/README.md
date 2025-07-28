@@ -4,7 +4,8 @@ Somos una startup naciente, impulsada por dos desarrolladores con visión empren
 
 🚀 ¿Cómo puedes empezar?
 Si acabas de llegar, lo primero es ponerte cómodo y revisar las bases de cómo trabajamos. Este repositorio contiene un documento de lectura obligatoria para todos los miembros del equipo:
-🔗 https://github.com/Advantra/Advantra
+- 🔗 https://github.com/Advantra/Advantra
+- 🔗 https://github.com/Advantra/Doppler-Guide
 
 Allí encontrarás nuestras normas, herramientas y estructura de trabajo.
 
